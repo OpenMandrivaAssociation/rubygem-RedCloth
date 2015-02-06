@@ -3,7 +3,7 @@
 Summary:	A textile parser for Ruby
 Name:		rubygem-%{oname}
 Version:	4.2.2
-Release:	%mkrel 2
+Release:	3
 License:	MIT
 Group:		Development/Ruby
 URL:		http://%{oname}.rubyforge.org/
